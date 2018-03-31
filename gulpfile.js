@@ -11,7 +11,12 @@ var messages = {
 };
 
 
-
+/**
+ * gulp.task - Define Tasks
+ * gulp.src - Points to files to use
+ * gulp.dest - Points to folder to output
+ * gulp.watch - Watch files and folders for changes
+ */
 
 /**
  * Build the Jekyll Site

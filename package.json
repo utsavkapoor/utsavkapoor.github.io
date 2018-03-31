@@ -1,12 +1,12 @@
 {
-  "name": "browser-sync-jekyll",
-  "version": "0.0.0",
-  "description": "A starter project including full setup for Jekyll, GulpJS, SASS & BrowserSync",
+  "name": "utsav-kapoor-portfolio",
+  "version": "1.0.0",
+  "description": "A Portfolio Project",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Shane Osbourne",
+  "author": "Utsav Kapoor",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.8.0",
@@ -17,16 +17,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shakyShane/jekyll-gulp-sass-browser-sync.git"
-  },
-  "keywords": [
-    "jekyll",
-    "gulp",
-    "sass",
-    "browsersync"
-  ],
-  "bugs": {
-    "url": "https://github.com/shakyShane/jekyll-gulp-sass-browser-sync/issues"
-  },
-  "homepage": "https://github.com/shakyShane/jekyll-gulp-sass-browser-sync"
+    "url": "https://github.com/utsavkapoor/utsavkapoor.github.io.git"
+  }
 }
